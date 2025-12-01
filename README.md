@@ -160,21 +160,10 @@ console.log("%cKeep exploring, keep building 🚀", "color:#FFD700;font-size:12p
 </p>
 </details>
 
-<details>
-  <summary>💡 Random Dev Wisdom</summary>
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-</details>
-
 ---
 
 ### 📊 GitHub Stats
 <br>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayjjohn&show_icons=true&theme=merko&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayjjohn&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjjohn&theme=tokyonight" alt="GitHub Streaks" />
