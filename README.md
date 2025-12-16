@@ -91,12 +91,6 @@
   <img src="https://img.shields.io/github/stars/abhayjjohn?label=Stars&style=flat-square" alt="stars"/>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhayjjohn&theme=algolia" alt="abhayjjohn" />
-  </a> 
-</p>
-
 ---
 
 ### 📫 Connect with me
@@ -164,10 +158,6 @@ console.log("%cKeep exploring, keep building 🚀", "color:#FFD700;font-size:12p
 
 ### 📊 GitHub Stats
 <br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjjohn&theme=tokyonight" alt="GitHub Streaks" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayjjohn&theme=tokyonight" alt="Profile Summary" />
